@@ -24,7 +24,7 @@
     class User { };
     interface User { };
 
-    // TODO: Tarea
+    // TODO: Tarea FINALIZADA
         
     // día de hoy - today
     // const ddmmyyy = new Date();
